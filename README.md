@@ -1,6 +1,7 @@
 # Person Re-Identification using YOLO and Feature Extraction
 
-![Alt text](image-1.png)
+![image](https://github.com/Aruj77/Reidentification-CCTV-footage-using-yolo/assets/68498812/7ac6dc19-b9ec-4c20-a129-9468f8e3879e)
+
 
 ## Overview
 
