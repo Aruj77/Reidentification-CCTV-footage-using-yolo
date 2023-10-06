@@ -1,5 +1,7 @@
 # Person Re-Identification using YOLO and Feature Extraction
 
+![Alt text](image-1.png)
+
 ## Overview
 
 This Python code demonstrates a simplified implementation of person re-identification in CCTV footage using YOLO (You Only Look Once) for person detection and deep learning-based feature extraction. The code can be used to identify and track individuals across frames in a video stream.
